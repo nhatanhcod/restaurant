@@ -5,7 +5,7 @@
 package DTO;
 
 /**
- *
+ 
  * @author PC
  */
 public class CustomerDTO {
@@ -15,7 +15,6 @@ public class CustomerDTO {
     private String lastName;
     private String phone;
     
-
     // Constructors
     public CustomerDTO() {
     }
